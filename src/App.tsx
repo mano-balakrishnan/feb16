@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React gh
+          Learn React ghs
         </a>
       </header>
     </div>
